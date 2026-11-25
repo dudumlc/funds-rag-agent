@@ -1,4 +1,4 @@
-# Agente de fundos e FIIs (versão local)
+# Agente de fundos de investimento e FIIs (versão local)
 
 Chat no terminal que responde sobre fundos e FIIs usando os documentos oficiais do Fundos.NET (B3).
 Você pergunta, o agente busca os relatórios, salva, vetoriza e responde citando documento, data e link.
